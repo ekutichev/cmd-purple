@@ -1,0 +1,10 @@
+Welcome to the "purple" system!
+
+You can get acquainted with the full list of commands by writing the "help" command.
+
+Create recovery points from time to time. 
+They will be needed if something happens to the system.
+
+You can disable this message in the configuration file in the "welcome message" section.
+
+Good luck!
